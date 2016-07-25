@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.css-1{
+	background-color: red;
+	color: yellow;
+	font-size: 40px;
+	margin: 30px 0 0 30px;
+}
+
+.js-1, .js-2, .js-3, .js-4{
+	margin: 30px 0 0 30px;
+	font-size: 40px;
+}
+.css-2{
+	background-color: green;
+	color: yellow;
+	font-size: 40px;
+	margin: 30px 0 0 30px;
+}
+
+.css-3{
+	background-color: pink;
+	color: red;
+	font-size: 40px;
+	margin: 30px 0 0 30px;
+}
+
+.css-4{
+	background-color: orange;
+	color: black;
+	font-size: 40px;
+	margin: 30px 0 0 30px;
+}
